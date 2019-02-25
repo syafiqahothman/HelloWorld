@@ -1,6 +1,7 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
-
+//Nor Shuhada binti Hassan
+// 1612452
 //Nur Syafiqah binti Othman
 //1611878
 export default class App extends React.Component {
