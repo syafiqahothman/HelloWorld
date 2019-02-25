@@ -1,7 +1,8 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 
-//hello
+//Nur Syafiqah binti Othman
+//1611878
 export default class App extends React.Component {
   render() {
     return (
